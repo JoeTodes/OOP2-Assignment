@@ -57,16 +57,3 @@ Squares are a a subset of **Rectangles** with a few small tweaks:
     * note that the Square does not need a "side" variable, as the length and width inherited from Rectangle serve this purpose
 * Override the width and length setters inherited from Rectangle to ensure the length and width are always the same 
 * getString() should return "{name}, a Circle with side length {side}" (the words in {} should be replaced with the actual values of the Square itself)
-***
-
-    
-        
-        Square
-            -constructor(side)
-            -getSide()
-            -setSide()
-            -setWidth()-override
-            -setLength()-override
-            -toString()-override
-    
-    

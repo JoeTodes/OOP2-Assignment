@@ -2,7 +2,6 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-import java.awt.Shape;
 import java.util.ArrayList;
 
 import org.junit.jupiter.api.Test;
@@ -19,10 +18,6 @@ public class App {
     /**
      * Do not change anything below here
      */
-
-    @Test
-    
-
     @Test
     public void polymorphismCheck() {
         ArrayList<Shape> list = new ArrayList<Shape>();
