@@ -2,10 +2,8 @@
 
 ## Instructions
 
-The following section descibes a system for defining a number of different shapes: **Circle**s, **Rectangle**s, and **Square**s (a subset of Rectangles). All of the shapes share a number of common properties and methods (eg. a name, the ability to calculate their own area), which should be implemented by an abstract class **Shape**. You have 2 tasks to complete:
+The following section descibes a system for defining a number of different shapes: **Circle**s, **Rectangle**s, and **Square**s (a subset of Rectangles). All of the shapes share a number of common properties and methods (eg. a name, the ability to calculate their own area), which should be implemented by an abstract class **Shape**.
 
-* Create a UML diagram for this system   
-  The VSCode extension **UMLet** is a handy tool for making UML diagrams directly in VSCode
 * Read through the @Test portion of App.java to get a sense of what test your classes need to pass and how the concept of **polymorphism** is being used
 * Implement the system in Java within this project folder  
   * Create the following class definition files within the src folder:  
